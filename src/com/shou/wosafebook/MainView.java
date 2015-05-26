@@ -30,6 +30,11 @@ import android.widget.Toast;
 
 
 public class MainView extends Activity {
+	
+	public void getId(int i){
+		
+	}
+	
 
 	private boolean startType = true;
 	private ViewPager viewpager;
